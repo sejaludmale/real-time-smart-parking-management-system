@@ -18,6 +18,11 @@ The system supports multiple vehicle types (Car, Bike, Truck) and ensures optimi
 - Object-Oriented Programming (OOP)
 - Collections Framework (HashMap, ArrayList)
 
+###  How to Run
+
+javac SmartParkingSystem.java
+java SmartParkingSystem
+
 ### Output
 ```txt
 ══════════════════════════════════════════════
